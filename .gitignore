@@ -1,0 +1,8 @@
+*.mp3
+*.rar
+*test*
+*Cache*
+*cache*
+.vscode
+*private*
+*Extracted*
